@@ -16,12 +16,12 @@ of a number of GLAMs (**g**alleries, **l**ibraries, **a**rchives and **m**useums
 - Added support for adding multiple categories for the images.
 - Prevented uploading of images that are already present in Wikimedia Commons.
 - Enabled showing of proper error messages in the UI when exceptions occur.
-- Deployed the app on Wikimedia Founadtion Toollabs ([link](https://tools.wmflabs.org/glam2commons/)).
+- Deployed the app on Wikimedia Foundation Toollabs ([link](https://tools.wmflabs.org/glam2commons/)).
 - Added two GLAMs (National Archief, Amsterdam Museum) into the tool.
 
 ### Achievements
 
-To make the tool easily scalable was a challenge in itself. We have followed a OOP based approach where there is a base class from which all GLAM classes inherit. For inclusion of a new GLAM the corresponding GLAM class has to define a set of pre-decided attributes and methods. The details of the architecture is [here](https://commons.m.wikimedia.org/wiki/User:Infobliss/Glam2Commons/How_to_add_a_new_glam).
+To make the tool easily scalable was a challenge in itself. We have followed a OOP based approach to meet this challenge. There is a base class from which all GLAM classes inherit. For inclusion of a new GLAM the corresponding GLAM class has to define a set of pre-decided attributes and methods. The details of the architecture is [here](https://commons.m.wikimedia.org/wiki/User:Infobliss/Glam2Commons/How_to_add_a_new_glam).
 
 ### Next steps
 
