@@ -1,3 +1,13 @@
+### Quick Stats
+
+- Project Description : https://phabricator.wikimedia.org/T138464
+- Project Proposal : https://phabricator.wikimedia.org/T161670
+- Organisation : [Wikimedia Foundation](https://wikimediafoundation.org)
+- Project Duration : 31 May'17 to 29 Aug'17
+- Weekly Reports : https://phabricator.wikimedia.org/T164555
+- Weekly Blogs : https://infoblissblog.wordpress.com/tag/gsoc/
+
+
 ### The Aim of the Project
 
 We aimed to develop a tool which allows any Wikimedia Commons user to import images to Commons from the online repositories 
@@ -12,14 +22,14 @@ The tool is hosted on the Wikimedia Toollabs [here](https://tools.wmflabs.org/gl
 - Designing the architecture of the tool so that it is easily scalable : Studied several tools including video2commons, Flinfo to arrive at a suitable OOP based design of the tool after several discussions with the mentors.
 - Enabling authentication of the users via Oauth: Studied the OAuth protocol to allow the authorization of the users of the tool via their Wikimedia Commons credentials.
 - Designing a user interface: Worked on making the UI as easy to use as possible for the end user.
-- Adding support for upload via URL or unique ID of the image: Worked to ensure that a single image can be uploaded via URL or unique ID.
-- Enabling searching of images based on a given search string: Used the GLAM's API to search images based on a search term.
-- Enabling creation of an image gallery on performing a string based image search: Designed an image gallery containing thumbnail of images returned by the search.
-- Enabling multiple image upload at a time: Worked to ensure multiple images can be selected and uploaded at one click of a button.
-- Adding support for adding multiple categories for the images: Enabled the user to specify multiple categories by clicking an 'Add' button.
-- Enabled showing of proper error messages in the UI when exceptions occur: Ensured that the user is shown proper messages after an unexpected operation.
-- Deployed the app on Wikimedia Foundation Toollabs ([link](https://tools.wmflabs.org/glam2commons/)): Learned how to create a Toollabs account and and create a service group to deploy the app.
-- Integrating two GLAMs into the tool: Worked on integrating National Archief, Amsterdam Museum into the tool.
+- Adding support for upload via URL or unique ID of the image : Worked to ensure that a single image can be uploaded via URL or unique ID.
+- Enabling searching of images based on a given search string : Used the GLAM's API to search images based on a search term.
+- Enabling creation of an image gallery on performing a string based image search : Designed an image gallery containing thumbnail of images returned by the search.
+- Enabling multiple image upload at a time : Worked to ensure multiple images can be selected and uploaded at one click of a button.
+- Adding support for adding multiple categories for the images : Enabled the user to specify multiple categories by clicking an 'Add' button.
+- Enabled showing of proper error messages in the UI when exceptions occur : Ensured that the user is shown proper messages after an unexpected operation.
+- Deployed the app on Wikimedia Foundation Toollabs ([link](https://tools.wmflabs.org/glam2commons/)) : Learned how to create a Toollabs account and and create a service group to deploy the app.
+- Integrating two GLAMs into the tool : Worked on integrating National Archief, Amsterdam Museum into the tool.
 
 ### Achievements
 
