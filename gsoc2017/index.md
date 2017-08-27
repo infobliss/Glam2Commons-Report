@@ -1,13 +1,3 @@
-### Quick Stats
-
-- Project Description : https://phabricator.wikimedia.org/T138464
-- Project Proposal : https://phabricator.wikimedia.org/T161670
-- Organisation : [Wikimedia Foundation](https://wikimediafoundation.org)
-- Project Duration : 31 May'17 to 29 Aug'17
-- Weekly Reports : https://phabricator.wikimedia.org/T164555
-- Weekly Blogs : https://infoblissblog.wordpress.com/tag/gsoc/
-
-
 ### The Aim of the Project
 
 We aimed to develop a tool which allows any Wikimedia Commons user to import images to Commons from the online repositories 
@@ -46,6 +36,39 @@ We have not been able to do these due to the time constraints of the project.
 
 The source code is licensed under GNU General Public License v3.0. Here is the [link](https://github.com/infobliss/sibutest2) to the source code.
 
+### Mentors
+
+- [Bas](https://commons.wikimedia.org/wiki/User:Basvb)
+- [Zhuyifei](https://commons.wikimedia.org/wiki/User:Zhuyifei1999)
+- [Tom](https://en.wikipedia.org/wiki/User:Tom29739)
+
+### Lessons
+
+The GSoC experience enriches the intern in many ways. For me it was no different. There are many lessons learnt along the way. It was known from the beginning that ours is going to be a Python Flask tool. 
+
+- Learnt how to work remotely with Toollabs server.
+- Learnt how to use the OAuth protocol for user authentication. 
+- Learnt the use of Python Flask, Jinja2 templating, Bootstrap.
+- Learnt how to use the API of third parties such as the **GLAM**s into one's project.
+- Learnt to use OOP design effectively.
+- Learnt how to improve quality and readability of code.
+- Learnt how to use github for collaboration.
+- Learnt how to test locally.
+
+### Things to keep next time
+
+- Start early with getting familiar with the tools and technology needed for the project.
+- Ask questions to the mentors whenever necessary.
+- Following the planned project timeline and meeting the deliverables in time.
+- Well documentation of weekly progress through reports and blogs.
+
+### Things to try next time
+
+- Detailed project planning.
+- Keep track of daily progress in phabricator.
+- Finish the meetings in time. Don't stretch them long.
+- Have the local test setup in place from the beginning.
+
 ### How the tool works
 
 **Screen 1: Go to the tool homepage. Click on Login With Wikimedia Commons**
@@ -60,7 +83,7 @@ The source code is licensed under GNU General Public License v3.0. Here is the [
 
 <img src="/gsoc2017/img/allow%20some%20rights%20screen.png">
 
-**Screen 4: The form to be filled to upload images to Wikimedia Commons**
+**Screen 4: Fill the form to upload images to Wikimedia Commons**
 
 <img src="/gsoc2017/img/glam%20form.png">
 
@@ -104,33 +127,11 @@ The source code is licensed under GNU General Public License v3.0. Here is the [
 
 <img src="/gsoc2017/img/help%20page.png">
 
-### Mentors
+### Other Stats
 
-- [Bas](https://commons.wikimedia.org/wiki/User:Basvb)
-- [Zhuyifei](https://commons.wikimedia.org/wiki/User:Zhuyifei1999)
-- [Tom](https://en.wikipedia.org/wiki/User:Tom29739)
-
-### Lessons
-
-- Learnt how to work remotely with Toollabs server.
-- Learnt how to use the OAuth protocol for user authentication. 
-- Learnt the use of Python Flask, Jinja2 templating, Bootstrap.
-- Learnt how to use the API of third parties such as the **GLAM**s into one's project.
-- Learnt to use OOP design effectively.
-- Learnt how to improve quality and readability of code.
-- Learnt how to use github for collaboration.
-- Learnt how to test locally.
-
-### Things to keep next time
-
-- Start early with getting familiar with the tools and technology needed for the project.
-- Ask questions to the mentors whenever necessary.
-- Following the planned project timeline and meeting the deliverables in time.
-- Well documentation of weekly progress through reports and blogs.
-
-### Things to try next time
-
-- Detailed project planning.
-- Keep track of daily progress in phabricator.
-- Finish the meetings in time. Don't stretch them long.
-- Have the local test setup in place from the beginning.
+- Project Description : [here](https://phabricator.wikimedia.org/T138464)
+- Project Proposal : [here](https://phabricator.wikimedia.org/T161670)
+- Organisation : [Wikimedia Foundation](https://wikimediafoundation.org)
+- Project Duration : 31 May'17 to 29 Aug'17
+- Weekly Reports : [here](https://phabricator.wikimedia.org/T164555)
+- Weekly Blogs : [here](https://infoblissblog.wordpress.com/tag/gsoc/)
