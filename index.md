@@ -30,7 +30,7 @@ To make the tool easily scalable was a challenge in itself. We have followed a O
 
 ### Source Code
 
-The source code is licensed under GNU General Public License v3.0. Here is the [link](github.com/infobliss/sibutest2) to the source code.
+The source code is licensed under GNU General Public License v3.0. Here is the [link](https://github.com/infobliss/sibutest2) to the source code.
 
 ### Mentors
 
