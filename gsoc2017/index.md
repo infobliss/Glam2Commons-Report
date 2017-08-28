@@ -1,3 +1,5 @@
+
+
 ### The Aim of the Project
 
 We aimed to develop a tool which allows any Wikimedia Commons user to import images to Commons from the online repositories 
@@ -44,30 +46,16 @@ The source code is licensed under GNU General Public License v3.0. Here is the [
 
 ### Lessons
 
-The GSoC experience enriches the intern in many ways. For me it was no different. There are many lessons learnt along the way. It was known from the beginning that ours is going to be a Python Flask tool. 
-
-- Learnt how to work remotely with Toollabs server.
-- Learnt how to use the OAuth protocol for user authentication. 
-- Learnt the use of Python Flask, Jinja2 templating, Bootstrap.
-- Learnt how to use the API of third parties such as the **GLAM**s into one's project.
-- Learnt to use OOP design effectively.
-- Learnt how to improve quality and readability of code.
-- Learnt how to use github for collaboration.
-- Learnt how to test locally.
+The GSoC experience is enriching in many ways. For me it was no different. There were many lessons learnt along the way. It was known from the beginning that ours is going to be a Python Flask tool. So I started learning about the Flask micro framework even before submiting the proposal while doing the microtasks. During the community bonding period I got myself familiar with Wikimedia Toollabs and how to make a Flask app in Toollabs. The immediate next step was to learn how to use the OAuth protocol for user authentication. Thereafter while fetching data from the APIs provided by the GLAMs I acquired a better understanding of how to work with third party APIs. Right from the end of the first evaluation we had focussed on improving the readability and quality of the code. This included using Flake8 for python code and writing useful comments in the code. Midway in the project I had some issues in github. Somehow some files got deleted and my mentors helped to restore them. So I got a flavour of how to use github for collaboration. Also in the beginning I did not have a local OAuth enabled test setup. So it was time consuming to test the code directly at the Toollabs server. Later I learnt how to get a local test setup and things became much smoother. Among technologies I leant to use Jinja templating, Bootstap etc. Finally as already mentioned in the Achievements section the use of an OOP approach helped me to appreciate the power of OOP design.
 
 ### Things to keep next time
 
-- Start early with getting familiar with the tools and technology needed for the project.
-- Ask questions to the mentors whenever necessary.
-- Following the planned project timeline and meeting the deliverables in time.
-- Well documentation of weekly progress through reports and blogs.
+There are some of the thing which I think I was right to do. Right after the selection results were announced on May 4, 2017 I communicated with my mentors to seek their guidance on how they would want to get started with the project. This enabled us to start work and even start coding in the community bonding period itself. Secondly, for a software development life cycle it is very important to be clear about what the requirements are. So one needs to keep asking questions periodically about whether one is going in the right direction. I think I have been able to do so and ask questions to the mentors whenever I felt it was necessary. This enabled me to follow the planned project timeline and meet the deliverables more or less in time. Lastly I have been documenting my weekly progress informally in a personal blog and updating official weekly reports in the phabricator as well.
 
 ### Things to try next time
 
-- Detailed project planning.
-- Keep track of daily progress in phabricator.
-- Finish the meetings in time. Don't stretch them long.
-- Have the local test setup in place from the beginning.
+After doing a project as GSoC one always finds some of the things which have scope for improvement. I believe that we have done a good job while planning the project timeline but there could have been finer planning. That is to say we could have broken the tasks into further subtasks to have better clarity of understanding. This will enable us to better prioritise the tasks well in advance. For example for the multiple image upload the possiblity to have pagination came pretty late while we had other things with higher priority at hand. Secondly, we can try to keep track of review comments in some shared location from the beginning of the project itself. This will help both the student and mentors to avoid repetitions. Thirdly, on the later half of the project I spent at least 10 hours per week in meetings. I believe we can try to not stretch them too long.
+
 
 ### How the tool works
 
