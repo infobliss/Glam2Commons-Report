@@ -9,6 +9,10 @@ of a number of GLAMs (**g**alleries, **l**ibraries, **a**rchives and **m**useums
 
 The tool is hosted on the Wikimedia Toollabs [here](https://tools.wmflabs.org/glam2commons/).
 
+### Source Code
+
+The source code is licensed under GNU General Public License v3.0. Here is the [link](https://github.com/infobliss/sibutest2) to the source code.
+
 ### Tasks Completed
 
 - Designing the architecture of the tool so that it is easily scalable : Studied several tools including video2commons, Flinfo to arrive at a suitable OOP based design of the tool after several discussions with the mentors.
@@ -33,10 +37,6 @@ To make the tool easily scalable was a challenge in itself. We have followed a O
 - Adding new GLAMs to the tool.
 
 We have not been able to do these due to the time constraints of the project.
-
-### Source Code
-
-The source code is licensed under GNU General Public License v3.0. Here is the [link](https://github.com/infobliss/sibutest2) to the source code.
 
 ### Mentors
 
