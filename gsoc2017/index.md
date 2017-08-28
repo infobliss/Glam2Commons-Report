@@ -1,4 +1,6 @@
-
+---
+title: GSoC 2017 Report for Glam2Commons
+---
 
 ### The Aim of the Project
 
