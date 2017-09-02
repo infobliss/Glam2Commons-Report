@@ -9,7 +9,7 @@ of a number of GLAMs (**g**alleries, **l**ibraries, **a**rchives and **m**useums
 
 ### The Tool
 
-The tool is hosted on the Wikimedia Toollabs [here](https://tools.wmflabs.org/glam2commons/).
+The tool is hosted on the Wikimedia Toolforge [here](https://tools.wmflabs.org/glam2commons/).
 
 ### Source Code
 
